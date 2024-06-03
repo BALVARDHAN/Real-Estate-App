@@ -1,2 +1,4 @@
-<h1>Real Estate App</h1>
-![Screenshot 2024-06-03 102303](https://github.com/BALVARDHAN/Rental-app/assets/68677559/8dde9167-63e7-4c9c-b258-94ebf5617ca8)
+
+
+https://github.com/BALVARDHAN/Rental-app/assets/68677559/ff838719-16dd-4cbb-9c24-be166a57eee8
+
