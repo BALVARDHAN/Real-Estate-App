@@ -1,6 +1,7 @@
 <h1>LALA Rentals App</h1>
 <h4>Introducing LALA Rentals, the ultimate real estate app built with the MERN stack. Effortlessly upload and manage your property listings with our intuitive CRUD application, search and filter with ease and secured user authentication</h4>
 <h5>Technologies Used: React, Node, Express, MongoDB</h5>
+<h5>Following Link leads to the video of this rental app in which i have shown all the features</h5>
 https://github.com/BALVARDHAN/Rental-app/assets/68677559/adf378a7-1052-4e7d-b43a-2fb24ada51eb
 <h2>Run this Full Stack App in your machine</h2>
 <h4>STEP-1 => Download the Project</h4>
