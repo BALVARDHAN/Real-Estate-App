@@ -11,8 +11,8 @@ https://github.com/BALVARDHAN/Rental-app/assets/68677559/ff838719-16dd-4cbb-9c24
 <code>npm install</code><br>
 <code>nodemon server.js</code>
 <h4>STEP-4 => Setup the Frontend with following command</h4>
-<code>cd client</code>
-<code>npm install</code>
+<code>cd client</code><br>
+<code>npm install</code><br>
 <code>npm start</code>
 <h5>Note : Make sure that you have TailwindCSS installed</h5>
 <h2>Screenshots :</h2>
